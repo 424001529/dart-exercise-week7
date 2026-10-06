@@ -1,1 +1,6 @@
-OUTPUT
+OUTPUT:
+
+Customer: Your Name
+Total: 67
+Is the total over 100? false
+
